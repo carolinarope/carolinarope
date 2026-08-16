@@ -1,35 +1,52 @@
-# Olá! 👋
+# Carolina Rodrigues
 
-Sou estudante de Análise e Desenvolvimento de Sistemas,
-em formação para Desenvolvimento Backend com Python.
+## 👩‍💻 Desenvolvedora Backend Python em formação
 
-## 💻 Atualmente estudando
+Estudante de Análise e Desenvolvimento de Sistemas com foco em
+Desenvolvimento Backend utilizando Python.
+
+Atualmente desenvolvo projetos práticos envolvendo:
 
 - Python
 - Programação Orientada a Objetos
+- APIs REST
 - SQL
 - Git/GitHub
+- Estruturação de regras de negócio
+- Persistência de dados
 
 ## 🚀 Projeto principal
 
 ### Bela Agenda
 
-Sistema de gestão para salões desenvolvido em Python,
-construído de forma incremental para praticar fundamentos
-de desenvolvimento backend.
+Sistema de gestão para salões desenvolvido em Python.
 
-## 📊 Conhecimentos complementares
+O projeto está sendo desenvolvido de forma incremental,
+evoluindo de uma aplicação procedural para uma arquitetura
+orientada a objetos.
+
+### Tecnologias
+
+Python • POO • JSON • SQL • Git/GitHub
+
+## 📊 Projetos complementares
+
+Também desenvolvo projetos envolvendo:
 
 - SQL
 - Power BI
-- Power Query
-- DAX
+- análise de dados
+- modelagem de dados
+- automação e manipulação de informações
 
 ## 🎯 Objetivo
 
-Ingressar como estagiária em Desenvolvimento Backend,
-continuando minha evolução em Python e desenvolvimento
-de aplicações.
+Busco minha primeira oportunidade de estágio em
+Desenvolvimento Backend, com foco em Python.
+
+Estou buscando aplicar meus conhecimentos em projetos reais,
+trabalhar em equipe e continuar evoluindo tecnicamente.
+
 ---
 
 <picture>
