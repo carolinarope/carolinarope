@@ -1,21 +1,35 @@
-## Olá, eu sou a Carolina! 👋
-### Estudante de Desenvolvimento de Sistemas | Foco em Backend & Dados 💻📊
+# Olá! 👋
 
----
+Sou estudante de Análise e Desenvolvimento de Sistemas,
+em formação para Desenvolvimento Backend com Python.
 
-### 👩‍💻 Sobre mim
+## 💻 Atualmente estudando
 
-* 💻 Sou técnica em **Desenvolvimento de Sistemas** em formação e futura acadêmica de **Análise de Sistemas**.
-* 🎯 Atualmente, meu foco de estudos e construção de portfólio envolve **Python (Backend, POO e Estruturas de Dados)**, **SQL** e **Power BI**.
-* 🚀 Executando um cronograma intensivo prático: desenvolvendo scripts, estruturando bancos de dados e criando dashboards baseados em problemas reais de negócios.
-* 🌱 Acredito na constância: uma linha de código, uma query e um commit de cada vez! Aqui você acompanha a evolução da minha lógica e dos meus projetos.
+- Python
+- Programação Orientada a Objetos
+- SQL
+- Git/GitHub
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Projeto principal
 
-* **Backend & Lógica:** Python, Algoritmos e Estruturas de Dados
-* **Dados & Análise:** SQL, Power BI
-* **Versionamento:** Git & GitHub 
+### Bela Agenda
 
+Sistema de gestão para salões desenvolvido em Python,
+construído de forma incremental para praticar fundamentos
+de desenvolvimento backend.
+
+## 📊 Conhecimentos complementares
+
+- SQL
+- Power BI
+- Power Query
+- DAX
+
+## 🎯 Objetivo
+
+Ingressar como estagiária em Desenvolvimento Backend,
+continuando minha evolução em Python e desenvolvimento
+de aplicações.
 ---
 
 <picture>
