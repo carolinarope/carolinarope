@@ -40,4 +40,4 @@ Busco uma oportunidade de **estágio em desenvolvimento de software**, preferenc
 ## Contato
 
 - GitHub: [@carolinarope](https://github.com/carolinarope)
-- LinkedIn: [Carolina Rodrigues](https://www.linkedin.com/in/carolinarodrigues/)
+- LinkedIn: [Carolina Rodrigues](https://www.linkedin.com/in/carolina-rope/)
