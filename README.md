@@ -1,63 +1,43 @@
 # Carolina Rodrigues
 
-## Estudante de ADS | Estágio em Desenvolvimento Backend | Python • POO • APIs REST • SQL • Git/GitHub
+**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento de Software | Java • Python • SQL**
 
-Estudante de Análise e Desenvolvimento de Sistemas, em formação para
-Desenvolvimento Backend com Python.
+Estou construindo minha trajetória em desenvolvimento de software, com interesse em desenvolvimento backend e em criar aplicações que resolvam problemas reais.
 
-Tenho desenvolvido projetos práticos para fortalecer fundamentos de
-programação, lógica, Programação Orientada a Objetos, APIs REST, SQL,
-persistência de dados e boas práticas de desenvolvimento.
+Minha formação reúne estudos em Análise e Desenvolvimento de Sistemas e Desenvolvimento de Sistemas. Tenho praticado lógica de programação, Java, Python, Programação Orientada a Objetos, SQL, persistência de dados e controle de versão.
 
-## 💻 Foco atual
+## Foco de aprendizagem
 
-- Python
-- Programação Orientada a Objetos (POO)
-- APIs REST
-- SQL
-- Git e GitHub
-- Estruturas de dados
-- Regras de negócio
-- Validação e tratamento de dados
-- Persistência de dados
-- Testes
+- **Java:** fundamentos, orientação a objetos e desenvolvimento de aplicações.
+- **Python:** lógica, funções, validações, orientação a objetos e persistência de dados.
+- **SQL:** consultas, relacionamentos e bancos de dados relacionais.
+- **Ferramentas:** Git, GitHub e IDEs utilizadas nos projetos acadêmicos.
 
-## 🚀 Projeto principal
+> As tecnologias acima representam minha formação e prática em andamento; não apresento como experiência profissional aquilo que ainda estou desenvolvendo nos estudos.
 
-### Bela Agenda
+## Projetos em destaque
 
-Sistema de gestão de agendamentos desenvolvido em Python.
+### [Bela Agenda — Python](https://github.com/carolinarope/bela-agenda-python)
+Projeto pessoal de gestão de clientes, serviços e agendamentos. Evoluiu de uma versão procedural para uma estrutura com classes, validações e persistência local em JSON.
 
-O projeto acompanha minha evolução técnica de forma incremental:
+### [Projetos acadêmicos em Java](https://github.com/carolinarope/Java-projetos-academicos)
+Repositório com aplicações e exercícios desenvolvidos durante minha formação técnica, incluindo Java Swing, validações, regras de negócio e conceitos de POO.
 
-Python procedural → validações → POO → APIs → banco de dados.
+### [Sistema de Agência de Viagens — Java](https://github.com/carolinarope/sistema-agencia-viagens-java)
+Aplicação de console para praticar associação entre classes, encapsulamento e cálculos de negócio.
 
-O objetivo é transformar um projeto inicialmente estruturado com funções
-e estruturas de dados em uma aplicação backend mais completa.
+### [Exercícios de SQL](https://github.com/carolinarope/exercicios-sql-analista-de-dados)
+Prática de consultas, filtros, agregações, joins, subconsultas e funções de janela.
 
-## 📌 Projetos complementares
+## Outros estudos
 
-### SQL
+Também mantenho projetos anteriores de análise e visualização de dados com SQL, Power Query, DAX e Power BI. Essa etapa faz parte da minha trajetória e contribuiu para desenvolver familiaridade com dados e indicadores; atualmente, meu direcionamento de carreira é desenvolvimento de software.
 
-Prática de consultas SQL, filtros, agregações, relacionamentos e análise
-de dados.
+## Objetivo
 
-### Power BI
+Busco uma oportunidade de **estágio em desenvolvimento de software**, preferencialmente remota, na qual eu possa contribuir, aprender com uma equipe e evoluir tecnicamente.
 
-Projetos de análise e visualização de dados utilizando Power BI,
-Power Query e DAX.
+## Contato
 
-Esses projetos complementam minha formação em tecnologia e fortalecem
-minha capacidade de trabalhar com dados e regras de negócio.
-
-## 🎯 Objetivo profissional
-
-Busco minha primeira oportunidade de estágio em Desenvolvimento Backend,
-com foco em Python.
-
-Tenho interesse em aprender com equipes de desenvolvimento, participar
-de projetos reais e evoluir continuamente em engenharia de software.
-
-## 🛠️ Tecnologias
-
-Python • POO • SQL • APIs REST • Git • GitHub • JSON • Power BI • DAX
+- GitHub: [@carolinarope](https://github.com/carolinarope)
+- LinkedIn: [Carolina Rodrigues](https://www.linkedin.com/in/carolinarodrigues/)
