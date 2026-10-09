@@ -68,7 +68,7 @@ Meu foco atual é fortalecer a base de programação, praticar orientação a ob
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✈️ <a href="https://github.com/carolinarope/sistema-agencia-viagens-java">Sistema de Agência de Viagens</a></h3>
+      <h3>✈️ <a href="https://github.com/carolinarope/Java-projetos-academicos/tree/main/sistema-agencia-viagens-java">Sistema de Agência de Viagens</a></h3>
       <p>Aplicação de console para praticar associação entre classes, encapsulamento e cálculos relacionados à montagem e à venda de pacotes de viagem.</p>
       <p><sub>Java · POO · Aplicação de console</sub></p>
     </td>
