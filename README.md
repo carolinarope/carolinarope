@@ -33,7 +33,7 @@ Comecei a estudar programação em 2025 e venho evoluindo por meio da formação
 
 Gosto de aprender colocando a mão na massa: compreender o problema, dividir a solução em etapas, testar possibilidades e investigar os erros para entender por que o código funciona.
 
-Meu foco atual é fortalecer a base de programação, praticar orientação a objetos e aprender a desenvolver sistemas com código organizado, validações e persistência de dados. Apresento meus conhecimentos de acordo com o que já pratiquei, sem confundir estudos com experiência profissional.
+Meu foco atual é fortalecer os fundamentos de programação, praticar orientação a objetos e desenvolver sistemas com validações, regras de negócio e persistência de dados. Apresento meus conhecimentos de acordo com o que já pratiquei, sem confundir estudos com experiência profissional.
 
 ## 🧭 Tecnologias e estudos
 
@@ -41,8 +41,8 @@ Meu foco atual é fortalecer a base de programação, praticar orientação a ob
 |---|---|
 | ☕ **Java** | Fundamentos, orientação a objetos e aplicações acadêmicas com Java Swing |
 | 🐍 **Python** | Lógica, funções, validações, orientação a objetos e persistência local em JSON |
-| 🗄️ **SQL** | Consultas, filtros, relacionamentos, agregações, subconsultas e funções de janela |
-| 🔧 **Ferramentas** | Git, GitHub, VS Code e NetBeans |
+| 🗄️ **SQL** | Consultas, filtros, JOINs, agrupamentos, agregações e modelagem relacional |
+| 🔧 **Ferramentas** | Git, GitHub, VS Code, NetBeans e MySQL Workbench |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Em%20estudo-7767B8?style=flat-square&logo=openjdk&logoColor=white" alt="Java em estudo" />
@@ -57,25 +57,25 @@ Meu foco atual é fortalecer a base de programação, praticar orientação a ob
   <tr>
     <td width="50%" valign="top">
       <h3>🗓️ <a href="https://github.com/carolinarope/bela-agenda-python">Bela Agenda — Python</a></h3>
-      <p>Projeto pessoal de gestão de clientes, serviços e agendamentos. O projeto evoluiu de uma versão procedural para uma estrutura com classes, validações e persistência local em JSON.</p>
+      <p>Projeto pessoal em desenvolvimento para gerenciar clientes, serviços e agendamentos. A versão atual utiliza uma aplicação de terminal, classes, validações e persistência local em JSON.</p>
       <p><sub>Python · POO · JSON · Validações</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>☕ <a href="https://github.com/carolinarope/Java-projetos-academicos">Projetos acadêmicos Java</a></h3>
-      <p>Repositório destinado às aplicações e atividades desenvolvidas durante a formação, com prática de orientação a objetos, interfaces desktop, validações e regras de negócio.</p>
+      <p>Repositório com atividades de programação orientada a objetos, interfaces desktop, validações e regras de negócio desenvolvidas durante a formação.</p>
       <p><sub>Java · POO · Swing · Regras de negócio</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✈️ <a href="https://github.com/carolinarope/Java-projetos-academicos/tree/main/sistema-agencia-viagens-java">Sistema de Agência de Viagens</a></h3>
-      <p>Aplicação de console para praticar associação entre classes, encapsulamento e cálculos relacionados à montagem e à venda de pacotes de viagem.</p>
-      <p><sub>Java · POO · Aplicação de console</sub></p>
+      <h3>🐍 <a href="https://github.com/carolinarope/Exercicios-backend-Python">Exercícios de Backend Python</a></h3>
+      <p>Exercícios de estudo para fortalecer lógica de programação, estruturas de dados, funções, validações e fundamentos de orientação a objetos.</p>
+      <p><sub>Python · Lógica · POO</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗄️ <a href="https://github.com/carolinarope/exercicios-sql-analista-de-dados">Exercícios de SQL</a></h3>
-      <p>Repositório de exercícios para praticar consultas, filtros, agregações, joins, subconsultas e funções de janela.</p>
-      <p><sub>SQL · Consultas · Bancos relacionais</sub></p>
+      <h3>🗄️ <a href="https://github.com/carolinarope/exercicios-sql">Estudos de SQL</a></h3>
+      <p>Atividades acadêmicas com consultas relacionais, agregações, modelagem de tabelas e manipulação de dados usando MySQL.</p>
+      <p><sub>SQL · MySQL · Modelagem relacional</sub></p>
     </td>
   </tr>
 </table>
@@ -89,27 +89,14 @@ Meu foco atual é fortalecer a base de programação, praticar orientação a ob
   Em andamento · previsão de conclusão: outubro de 2027.
 
 - 📋 **Técnico em Administração — Senac**  
-Formação concluída em outubro de 2026.
+  Formação concluída em outubro de 2026.
 
 - 🗃️ **Assistente de Administração de Banco de Dados — Senac**  
   Curso de 394 horas.
 
-## 🐍 Minha evolução no GitHub
+## 🎯 Objetivo profissional
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/carolinarope/carolinarope/main/dist/github-snake.svg"
-    alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub"
-    width="100%"
-  />
-</p>
-
-
----
-
-## 🎯 Meu próximo objetivo
-
-Busco minha primeira oportunidade profissional em **desenvolvimento de software**, preferencialmente em estágio e com prioridade para o trabalho remoto.
+Busco minha primeira oportunidade profissional em **desenvolvimento de software**, com prioridade para estágio e preferência pelo trabalho remoto.
 
 Quero contribuir com uma equipe, aprender com desafios reais e continuar desenvolvendo minhas habilidades em Java, Python, SQL e construção de sistemas.
 
