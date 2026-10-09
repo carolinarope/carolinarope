@@ -89,7 +89,7 @@ Meu foco atual é fortalecer a base de programação, praticar orientação a ob
   Em andamento · previsão de conclusão: outubro de 2027.
 
 - 📋 **Técnico em Administração — Senac**  
-  Formação com previsão de conclusão em outubro de 2026.
+Formação concluída em outubro de 2026.
 
 - 🗃️ **Assistente de Administração de Banco de Dados — Senac**  
   Curso de 394 horas.
@@ -104,7 +104,6 @@ Meu foco atual é fortalecer a base de programação, praticar orientação a ob
   />
 </p>
 
-A animação é gerada pelo GitHub Actions a partir do gráfico de contribuições. O workflow existente será mantido.
 
 ---
 
