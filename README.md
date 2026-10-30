@@ -1,10 +1,9 @@
-# Carolina Rodrigues Pereira
 
 <p align="center">
   <img
     src="assets/header.svg"
     alt="Carolina Rodrigues Pereira — Desenvolvimento de Software e backend com Java"
-    width="100%"
+    width="100%" ☕💻
   />
 </p>
 
