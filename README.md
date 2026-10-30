@@ -1,15 +1,19 @@
 
+
 <p align="center">
   <img
     src="assets/header.svg"
-    alt="Carolina Rodrigues Pereira — Desenvolvimento de Software e backend com Java"
-    width="100%" ☕💻
+    alt="Banner de Carolina Rodrigues Pereira"
+    width="100%"
   />
 </p>
 
 <p align="center">
-  <strong>Estudante de ADS e Técnico em Desenvolvimento de Sistemas</strong><br>
-  Desenvolvimento de Software · Foco em backend com Java
+  💻 <strong>Estudante de ADS e Técnico em Desenvolvimento de Sistemas</strong>
+</p>
+
+<p align="center">
+  Projetos acadêmicos e aprendizado contínuo
 </p>
 
 <p align="center">
