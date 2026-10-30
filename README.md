@@ -78,6 +78,6 @@ A extensão HTTP está no meu roteiro de estudos; as funcionalidades disponívei
 - **Análise e Desenvolvimento de Sistemas — Uniube** · em andamento, conclusão prevista em 2028.
 - **Técnico em Desenvolvimento de Sistemas — Senac** · em andamento, conclusão prevista em 2027.
 - **Técnico em Administração — Senac** · concluído em 2026.
-- **Assistente de Administração de Banco de Dados — Senac** · 394 horas.
+- **Certificado complementar de Assistente de Administração de Banco de Dados — Senac** · concedido ao concluir uma disciplina do Técnico em Desenvolvimento de Sistemas.
 
 <p align="center"><em>Entender o problema, construir uma solução e aprender com o resultado.</em></p>
