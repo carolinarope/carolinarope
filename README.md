@@ -2,8 +2,8 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=9B8AE6,7767B8,4B3B6E&height=190&section=header&text=Carolina%20Rodrigues&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Java%20%7C%20Python%20%7C%20SQL&descAlignY=60&descSize=15"
-    alt="Cabeçalho Carolina Rodrigues"
+    src="assets/header.svg"
+    alt="Carolina Rodrigues Pereira — Desenvolvimento de Software e backend com Java"
     width="100%"
   />
 </p>
