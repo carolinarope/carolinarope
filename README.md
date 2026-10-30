@@ -9,75 +9,69 @@
 </p>
 
 <p align="center">
-  <strong>Estudante de ADS · Desenvolvimento de Software · Foco em backend com Java</strong><br>
-  Projetos acadêmicos e pessoais com Java, Python e bancos de dados.
+  <strong>Estudante de ADS e Técnico em Desenvolvimento de Sistemas</strong><br>
+  Desenvolvimento de Software · Foco em backend com Java
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carolina-rope/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-7767B8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"></a>
-  <a href="https://github.com/carolinarope/Java-projetos-academicos/tree/main/Cenaflix_java_jdbc"><img src="https://img.shields.io/badge/Java-Conheça%20o%20Cenaflix-4B3B6E?style=for-the-badge&logo=openjdk&logoColor=white" alt="Projeto Cenaflix"></a>
+  <a href="https://github.com/carolinarope/Java-projetos-academicos"><img src="https://img.shields.io/badge/Java-Projetos%20acadêmicos-4B3B6E?style=for-the-badge&logo=openjdk&logoColor=white" alt="Portfólio acadêmico Java"></a>
 </p>
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Uniube** e de **Técnico em Desenvolvimento de Sistemas no Senac**. Meu objetivo é iniciar minha carreira em desenvolvimento de software, com foco em **backend e Java**.
+Sempre gostei de tecnologia e me imaginei trabalhando com computadores, mas durante muito tempo enxerguei essa possibilidade como algo distante. Em 2025, enquanto cursava Administração no Senac, encontrei a oportunidade de também estudar Desenvolvimento de Sistemas e comecei a transformar esse interesse em uma trajetória profissional.
 
-Minha entrada na programação aconteceu em 2025, ao encontrar o curso de Desenvolvimento de Sistemas enquanto já estudava Administração no Senac. Comecei pela lógica e por Python; hoje aprofundo os fundamentos de Java, orientação a objetos e integração com bancos de dados.
+Iniciei meus estudos em Python, desenvolvendo minha base em lógica e programação. Ao longo do curso técnico, tive contato com Java e passei a aprofundar meus estudos na linguagem, em orientação a objetos e na integração com bancos de dados.
 
-Nos meus projetos, pratico a transformação de requisitos em funcionalidades: receber e validar entradas, organizar objetos, persistir informações e apresentar resultados. Gosto de investigar erros e acompanhar o caminho dos dados para compreender como cada parte da aplicação funciona.
+Como a tecnologia oferece diferentes caminhos profissionais, também explorei brevemente análise de dados. Essa experiência me ajudou a perceber que minha maior identificação estava em escrever código, construir aplicações e entender suas regras de funcionamento. Hoje, meu foco está em **desenvolvimento backend com Java**.
 
-**Busco uma oportunidade de estágio** para aprender com uma equipe e contribuir enquanto desenvolvo minha base técnica.
+Neste GitHub, compartilho projetos acadêmicos, exercícios e a evolução da **Bela Agenda**, um sistema de agendamentos que escolhi desenvolver no Projeto Integrador do Senac.
+
+**Busco uma oportunidade de estágio** para aplicar meus conhecimentos, aprender com uma equipe e construir minha carreira em desenvolvimento de software.
 
 ## Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ Cenaflix</h3>
-      <p>Aplicação acadêmica para cadastrar, consultar, atualizar e excluir filmes. Interface desktop com Java Swing e persistência no MySQL por JDBC.</p>
-      <p>Prática com DAO, consultas parametrizadas, validação de entradas e filtro por categoria.</p>
-      <p><sub>Java · Swing · JDBC · MySQL · CRUD</sub></p>
-      <p><a href="https://github.com/carolinarope/Java-projetos-academicos/tree/main/Cenaflix_java_jdbc">Código, imagens e como executar →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗓️ Bela Agenda</h3>
-      <p>Projeto pessoal para organizar clientes, serviços e agendamentos de salões. A V3 funciona no terminal, com classes, validações e persistência local em JSON.</p>
-      <p>O projeto evolui por etapas, a partir de uma base em Python e de regras de negócio que pretendo aprofundar.</p>
-      <p><sub>Python · POO · JSON · Validações</sub></p>
-      <p><a href="https://github.com/carolinarope/bela-agenda-python">Versão atual e evolução do projeto →</a></p>
-    </td>
-  </tr>
-</table>
+### 🗓️ [Bela Agenda — projeto integrador com tema autoral](https://github.com/carolinarope/bela-agenda-python)
 
-## O que venho praticando
+A Bela Agenda nasceu no Projeto Integrador do Técnico em Desenvolvimento de Sistemas do Senac. Escolhi desenvolver um sistema para organizar clientes, serviços e agendamentos de salões de beleza, começando pela estrutura do banco de dados.
 
-| Área | Aplicação nos estudos |
-|---|---|
-| **Java e POO** | Classes, encapsulamento, herança, interfaces, polimorfismo e aplicações Swing |
-| **JDBC e MySQL** | Conexão, CRUD, PreparedStatement e mapeamento de resultados |
-| **Python** | Funções, objetos, listas, validações e leitura/gravação de JSON |
-| **SQL** | Modelagem relacional, chaves, filtros, JOINs e agregações |
-| **Ferramentas** | Git, GitHub, NetBeans, VS Code e MySQL Workbench |
+Como já estudava Python, implementei uma versão inicial nessa linguagem para praticar lógica, orientação a objetos, validações e persistência em JSON.
 
-### Próximos passos de aprendizagem
+Atualmente, também estou estudando fundamentos de **APIs REST, HTTP, GET, POST e JSON**, com a proposta de acrescentar uma pequena API à versão Python.
 
-- Consolidar a explicação dos fluxos e das decisões dos meus projetos Java.
-- Estudar **HTTP, JSON, GET e POST**, com uma pequena extensão experimental em Flask para a Bela Agenda.
-- Evoluir gradualmente a organização do código e as regras dos agendamentos.
+A continuidade do projeto será em **Java**, aplicando os conhecimentos de interface com **Swing**, conexão por **JDBC** e persistência no **MySQL** praticados no Cenaflix. Pretendo disponibilizar essa versão no GitHub, incluindo código, estrutura do banco e instruções de execução, conforme avançar nas entregas do Projeto Integrador.
 
-A extensão HTTP está no meu roteiro de estudos; as funcionalidades disponíveis estão descritas no README de cada projeto.
+[Ver a versão Python e a evolução do projeto →](https://github.com/carolinarope/bela-agenda-python)
+
+### 🎬 [Cenaflix — Java, Swing, JDBC e MySQL](https://github.com/carolinarope/Java-projetos-academicos/tree/main/Cenaflix_java_jdbc)
+
+Projeto acadêmico desenvolvido no Senac para cadastrar, consultar, atualizar e excluir filmes, com interface gráfica em Java Swing e armazenamento no MySQL por meio de JDBC.
+
+Nele, pratiquei a organização entre modelo, conexão, DAO e telas, além de consultas parametrizadas, validação de entradas e filtro por categoria. Esses conhecimentos também fazem parte da base que vou aplicar na versão Java da Bela Agenda.
+
+[Ver código, imagens e instruções de execução →](https://github.com/carolinarope/Java-projetos-academicos/tree/main/Cenaflix_java_jdbc)
 
 ## Outros projetos e exercícios
 
-- [**Portfólio Java**](https://github.com/carolinarope/Java-projetos-academicos) — SoftNutri, funcionários, impostos, IMC e agência de viagens, além do Cenaflix.
-- [**SQL e modelagem relacional**](https://github.com/carolinarope/exercicios-sql) — consultas e manipulação de dados em cenários acadêmicos.
-- [**Exercícios em Python**](https://github.com/carolinarope/Exercicios-backend-Python) — lógica, funções, estruturas de dados e POO.
+Meu [**portfólio Java**](https://github.com/carolinarope/Java-projetos-academicos) reúne atividades acadêmicas como **SoftNutri, Sistema de Funcionários, Sistema Contábil, Calculadora IMC e Agência de Viagens**. Esses exercícios contribuíram para meu aprendizado de classes, objetos, encapsulamento, herança, interfaces, polimorfismo, coleções e interfaces gráficas.
+
+| Repositório | O que você encontra |
+|---|---|
+| [SQL e modelagem relacional](https://github.com/carolinarope/exercicios-sql) | Atividades realizadas no curso: consultas, modelagem, junções e agregações |
+| [Exercícios de Python](https://github.com/carolinarope/Exercicios-backend-Python) | Lógica, funções, estruturas de dados e introdução à orientação a objetos |
+
+## Tecnologias presentes nos projetos
+
+**Java · Python · SQL · MySQL · JDBC · Java Swing · JSON · Git e GitHub**
+
+**Em estudo:** fundamentos de APIs REST, HTTP e Flask.
 
 ## Formação
 
-- **Análise e Desenvolvimento de Sistemas — Uniube** · em andamento, conclusão prevista em 2028.
-- **Técnico em Desenvolvimento de Sistemas — Senac** · em andamento, conclusão prevista em 2027.
-- **Técnico em Administração — Senac** · concluído em 2026.
-- **Certificado complementar de Assistente de Administração de Banco de Dados — Senac** · concedido ao concluir uma disciplina do Técnico em Desenvolvimento de Sistemas.
+- **Análise e Desenvolvimento de Sistemas — Uniube:** em andamento.
+- **Técnico em Desenvolvimento de Sistemas — Senac:** em andamento.
+- **Técnico em Administração — Senac:** concluído.
+- **Certificado complementar de Assistente de Administração de Banco de Dados — Senac:** concedido após a conclusão de uma disciplina do Técnico em Desenvolvimento de Sistemas.
 
 <p align="center"><em>Entender o problema, construir uma solução e aprender com o resultado.</em></p>
