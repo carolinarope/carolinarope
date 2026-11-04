@@ -1,12 +1,17 @@
-
-
-<p align="center">
+<div align="center">
   <img
-    src="assets/header.svg"
-    alt="Banner de Carolina Rodrigues Pereira"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4B3B6E,100:9B8AE6&height=220&section=header&text=CAROLINA%20RODRIGUES&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
     width="100%"
+    alt="Carolina Rodrigues"
   />
-</p>
+</div>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=9B8AE6&center=true&vCenter=true&width=500&height=45&lines=Desenvolvimento+de+Software"
+    alt="Desenvolvimento de Software"
+  />
+</div>
 
 <p align="center">
   💻 <strong>Estudante de ADS e Técnico em Desenvolvimento de Sistemas</strong>
