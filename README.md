@@ -35,7 +35,7 @@ Busco minha primeira oportunidade de **estágio em Desenvolvimento de Software**
 
 </div>
 
-**Em estudo:** fundamentos de APIs REST, HTTP e Flask.
+**Em estudo:** fundamentos de APIs REST e HTTP, iniciando Spring Boot para desenvolver uma API em um projeto separado.
 
 ---
 
@@ -46,8 +46,6 @@ Busco minha primeira oportunidade de **estágio em Desenvolvimento de Software**
 A Bela Agenda nasceu no Projeto Integrador do Técnico em Desenvolvimento de Sistemas do Senac. Escolhi desenvolver um sistema para organizar clientes, serviços e agendamentos de salões de beleza, começando pela estrutura do banco de dados.
 
 Como já estudava Python, implementei uma versão inicial nessa linguagem para praticar lógica, orientação a objetos, validações e persistência em JSON.
-
-Atualmente, também estou estudando fundamentos de **APIs REST, HTTP, GET, POST e JSON**, com a proposta de acrescentar uma pequena API à versão Python.
 
 A continuidade do projeto será em **Java**, aplicando os conhecimentos de interface com **Swing**, conexão por **JDBC** e persistência no **MySQL** praticados no Cenaflix. Pretendo disponibilizar essa versão no GitHub, incluindo código, estrutura do banco e instruções de execução, conforme avançar nas entregas do Projeto Integrador.
 
