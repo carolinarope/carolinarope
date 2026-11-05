@@ -35,7 +35,7 @@ Busco minha primeira oportunidade de **estágio em Desenvolvimento de Software**
 
 </div>
 
-**Em estudo:** fundamentos de APIs REST e HTTP, iniciando Spring Boot para desenvolver uma API em um projeto separado.
+**Em estudo:** fundamentos de APIs REST e HTTP.
 
 ---
 
