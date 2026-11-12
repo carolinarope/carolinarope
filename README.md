@@ -21,7 +21,14 @@
 
 Minha curiosidade por tecnologia se transformou em interesse pela programação. Atualmente, curso **Análise e Desenvolvimento de Sistemas** e o **Técnico em Desenvolvimento de Sistemas**, colocando em prática o que aprendo por meio de projetos acadêmicos.
 
-Busco minha primeira oportunidade de **estágio em Desenvolvimento de Software**, com disposição para aprender, trocar conhecimentos e contribuir com uma equipe.
+Comecei pela lógica de programação e pelo Python em 2025. 
+Conheci Java no curso técnico e me interessei por entender o que acontece por trás das aplicações.
+
+Busco meu primeiro estágio em desenvolvimento de software. 
+Quero aprender com uma equipe e participar tanto da criação de funcionalidades quanto da melhoria de sistemas que já estão em uso.
+
+Aqui no GitHub, você pode acompanhar minha evolução na programação, dos primeiros exercícios com condicionais aos projetos em Java e aos estudos de APIs REST com Spring Boot. 
+O perfil reúne exercícios e projetos acadêmicos. Nos repositórios, compartilho o código e explico o que pratiquei em cada etapa.
 
 ---
 
@@ -35,7 +42,6 @@ Busco minha primeira oportunidade de **estágio em Desenvolvimento de Software**
 
 </div>
 
-**Em estudo:** Spring Boot e fundamentos de APIs REST e HTTP.
 
 ---
 
