@@ -28,7 +28,8 @@ Busco meu primeiro estágio em desenvolvimento de software.
 Quero aprender com uma equipe e participar tanto da criação de funcionalidades quanto da melhoria de sistemas que já estão em uso.
 
 Aqui no GitHub, você pode acompanhar minha evolução na programação, dos primeiros exercícios com condicionais aos projetos em Java e aos estudos de APIs REST com Spring Boot. 
-O perfil reúne exercícios e projetos acadêmicos. Nos repositórios, compartilho o código e explico o que pratiquei em cada etapa.
+O perfil reúne exercícios e projetos acadêmicos.
+Nos repositórios, compartilho o código e explico o que pratiquei em cada etapa.
 
 ---
 
@@ -73,7 +74,7 @@ Sistema de agendamentos para salões de beleza, criado como Projeto Integrador. 
 
 ## 🎓 Formação
 
-- **Análise e Desenvolvimento de Sistemas — Uniube:** em andamento.
+- **Análise e Desenvolvimento de Sistemas — Uniube:** maio de 2026 a novembro de 2028 (previsão).
 - **Técnico em Desenvolvimento de Sistemas — Senac:** em andamento.
 - **Técnico em Administração — Senac:** concluído.
 - **Certificado complementar de Assistente de Administração de Banco de Dados — Senac:** concedido após a conclusão de uma disciplina do Técnico em Desenvolvimento de Sistemas.
